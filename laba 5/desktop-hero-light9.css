@@ -1,0 +1,139 @@
+.desktop-hero-light9-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-hero-light9-desktop-hero-light9 {
+  gap: 40px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 80px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-default-backgroundgradient);
+  background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+}
+.desktop-hero-light9-container1 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-hero-light9-frametextcontent {
+  gap: 7px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-hero-light9-h3 {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-hero-light9-text {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 33px;
+}
+.desktop-hero-light9-h2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-hero-light9-text02 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 57px;
+}
+.desktop-hero-light9-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-hero-light9-text04 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.desktop-hero-light9-container2 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-hero-light9-frame-actioncontent {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-hero-light9-framebuttons {
+  gap: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-hero-light9-secondbutton {
+  gap: 10px;
+  display: flex;
+  padding: 18px 31px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackground);
+}
+.desktop-hero-light9-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-hero-light9-text09 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.desktop-hero-light9-button {
+  gap: 10px;
+  display: flex;
+  padding: 16px 45px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 35px;
+  flex-direction: column;
+}
+.desktop-hero-light9-text-button1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-hero-light9-text11 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}

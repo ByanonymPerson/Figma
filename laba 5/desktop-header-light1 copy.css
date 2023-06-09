@@ -1,0 +1,372 @@
+.desktop-header-light1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+}
+.desktop-header-light1-desktop-header-light1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  border-color: #6b1616;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: #006dcb;
+}
+.desktop-header-light1-sv-gradient {
+  width: 1440px;
+  height: 1px;
+  align-self: stretch;
+}
+.desktop-header-light1-desktopnavbar {
+  gap: 324px;
+  width: 1210px;
+  height: 156px;
+  display: flex;
+  padding: 10px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+}
+.desktop-header-light1-left {
+  top: 38px;
+  left: 20px;
+  width: 246px;
+  display: flex;
+  padding: 0 20px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-framecontentlogodark {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.desktop-header-light1-dark {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.desktop-header-light1-rectangle4 {
+  width: 186px;
+  height: 58px;
+}
+.desktop-header-light1-right {
+  gap: 44px;
+  top: 46px;
+  left: 278px;
+  width: 892px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+}
+.desktop-header-light1-framedesktopmenu {
+  gap: 21px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text-linkbutton {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+.desktop-header-light1-text-link {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text02 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+.desktop-header-light1-text-link1 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text04 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+.desktop-header-light1-text-link2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text06 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+.desktop-header-light1-text-link3 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text08 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+.desktop-header-light1-framedesktopactions {
+  height: 62px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-header-light1-framemailinginput2 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+}
+.desktop-header-light1-input {
+  gap: 64px;
+  color: rgba(24, 23, 29, 1);
+  width: 273px;
+  display: flex;
+  padding: 19px 39px;
+  overflow: hidden;
+  font-size: 14px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 39px;
+  flex-direction: column;
+  background-color: rgba(239, 239, 239, 1);
+}
+.desktop-header-light1-masterbutton {
+  gap: 10px;
+  display: flex;
+  padding: 19px 38px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lighttext);
+}
+.desktop-header-light1-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text10 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.desktop-header-light1-desktop-hero-light1button {
+  gap: 40px;
+  display: flex;
+  padding: 80px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+}
+.desktop-header-light1-container1 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-frametextcontent {
+  gap: 7px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-h3 {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text12 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 33px;
+}
+.desktop-header-light1-h1 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text14 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 65.5px;
+}
+.desktop-header-light1-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text16 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.desktop-header-light1-containerbutton {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-frame-actioncontent {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-header-light1-framebigbutton {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-masterbutton1 {
+  width: 236px;
+  display: flex;
+  padding: 16px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackground);
+}
+.desktop-header-light1-text-button1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-header-light1-text21 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  text-align: center;
+  line-height: 33px;
+}
+.desktop-header-light1-container2 {
+  gap: 18.241832733154297px;
+  display: flex;
+  padding: 36.483665466308594px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-framescreencontent {
+  gap: 52.90131759643555px;
+  display: flex;
+  padding: 18.241832733154297px;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-header-light1-frame-macbook-pro {
+  width: 1054.3779296875px;
+  height: 589.5489501953125px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-header-light1-screenbackground {
+  top: 0px;
+  left: 95.18209075927734px;
+  width: 860px;
+  height: 579px;
+  position: absolute;
+  border-color: rgba(159, 162, 165, 1);
+  border-radius: 27.336118698120117px 27.336118698120117px 0 0;
+}
+.desktop-header-light1-base {
+  top: 555.4985961914062px;
+  left: 0px;
+  width: 1054px;
+  height: 22px;
+  position: absolute;
+}
+.desktop-header-light1-base-bottom {
+  top: 577.2747802734375px;
+  left: 0px;
+  width: 1054px;
+  height: 12px;
+  position: absolute;
+}
+.desktop-header-light1-grip {
+  top: 555.4985961914062px;
+  left: 452.5497741699219px;
+  width: 141px;
+  height: 13px;
+  position: absolute;
+}
+.desktop-header-light1-screenmask {
+  top: 23.75624656677246px;
+  left: 118.9378890991211px;
+  width: 813px;
+  height: 508px;
+  position: absolute;
+}
+@media(max-width: 1200px) {
+  .desktop-header-light1-desktopnavbar {
+    background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+  }
+  .desktop-header-light1-desktop-hero-light1button {
+    color: var(--dl-color-gray-black);
+    background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
+  }
+}

@@ -1,0 +1,184 @@
+.desktoplight-cta4-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktoplight-cta4-desktoplight-cta4 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 100px 0;
+  overflow: hidden;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackground);
+}
+.desktoplight-cta4-framebackgroundcontent {
+  width: 1440px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.desktoplight-cta4-content {
+  gap: 50px;
+  height: 638px;
+  display: flex;
+  padding: 0 50px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktoplight-cta4-leftcontainer {
+  height: 532px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktoplight-cta4-framescreencontent {
+  gap: 47.457374572753906px;
+  width: 854.2327880859375px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktoplight-cta4-undrawnewslettervovu {
+  width: 677px;
+  height: 514px;
+}
+.desktoplight-cta4-rightcontainer {
+  gap: 15px;
+  width: 544px;
+  display: flex;
+  padding: 0 63px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.desktoplight-cta4-paddingtop {
+  width: 546px;
+  height: 106px;
+}
+.desktoplight-cta4-frametextcontent {
+  gap: 7px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktoplight-cta4-h3 {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktoplight-cta4-text {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 33px;
+}
+.desktoplight-cta4-h2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktoplight-cta4-text02 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 57px;
+}
+.desktoplight-cta4-frame-actioncontent {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktoplight-cta4-framedesktopnewsletter {
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktoplight-cta4-h31 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktoplight-cta4-text07 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 33px;
+}
+.desktoplight-cta4-text-paragraphe {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktoplight-cta4-text09 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.desktoplight-cta4-framemailinginput2 {
+  gap: 12px;
+  display: flex;
+  padding: 34px 0;
+  align-items: center;
+}
+.desktoplight-cta4-input {
+  gap: 64px;
+  color: rgba(24, 23, 29, 1);
+  width: 273px;
+  display: flex;
+  padding: 19px 39px;
+  overflow: hidden;
+  font-size: 14px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 39px;
+  flex-direction: column;
+  background-color: rgba(244, 244, 244, 1);
+}
+.desktoplight-cta4-masterbutton {
+  gap: 10px;
+  display: flex;
+  padding: 19px 38px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-primary);
+}
+.desktoplight-cta4-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktoplight-cta4-text11 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}

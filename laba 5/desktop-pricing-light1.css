@@ -1,0 +1,161 @@
+.desktop-pricing-light1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-pricing-light1-desktop-pricing-light1 {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 100px 20px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-default-darkbackground);
+}
+.desktop-pricing-light1-content {
+  gap: 160px;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-pricing-light1-textcontent {
+  gap: 6px;
+  width: 475px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.desktop-pricing-light1-h1 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 65.5px;
+}
+.desktop-pricing-light1-text-paragraphe {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text02 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.desktop-pricing-light1-textcontent1 {
+  gap: 9px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-pricing-light1-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text09 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.desktop-pricing-light1-row {
+  height: 61px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-pricing-light1-headline {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-h11 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text11 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 65.5px;
+}
+.desktop-pricing-light1-block {
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-pricing-light1-h41 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text13 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.desktop-pricing-light1-h42 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text15 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.desktop-pricing-light1-masterbutton {
+  gap: 10px;
+  display: flex;
+  padding: 18px 38px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-primary);
+}
+.desktop-pricing-light1-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-pricing-light1-text22 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}

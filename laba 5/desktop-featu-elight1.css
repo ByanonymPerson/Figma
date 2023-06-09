@@ -1,0 +1,258 @@
+.desktop-featu-elight1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-featu-elight1-desktop-featu-elight1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-featu-elight1-framebackgroundcontent {
+  width: 1440px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.desktop-featu-elight1-content {
+  gap: 70px;
+  display: flex;
+  padding: 95px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-featu-elight1-frametextcontent {
+  gap: 7px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-featu-elight1-h3 {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: center;
+  line-height: 33px;
+}
+.desktop-featu-elight1-h2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text02 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: center;
+  line-height: 57px;
+}
+.desktop-featu-elight1-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text04 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.desktop-featu-elight1-container1 {
+  gap: 100px;
+  display: flex;
+  align-items: center;
+}
+.desktop-featu-elight1-media {
+  gap: 11.200167655944824px;
+  height: 648px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-featu-elight1-framescreencontent {
+  gap: 47.64550018310547px;
+  display: flex;
+  padding: 16.42948341369629px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-featu-elight1-framebrowser {
+  width: 949.6240844726562px;
+  height: 530.9765014648438px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-featu-elight1-flat-browser {
+  top: 0px;
+  left: 0px;
+  width: 949.6240844726562px;
+  height: 530.8272705078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 0.00009999999747378752);
+}
+.desktop-featu-elight1-navigation {
+  top: 0px;
+  left: 0px;
+  width: 949.4404907226562px;
+  height: 41.88739013671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-featu-elight1-navigation-bg {
+  top: 0px;
+  left: 0px;
+  width: 949px;
+  height: 42px;
+  position: absolute;
+}
+.desktop-featu-elight1-close {
+  top: 16.374130249023438px;
+  left: 19.88625144958496px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.desktop-featu-elight1-minimise {
+  top: 16.374130249023438px;
+  left: 40.696964263916016px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.desktop-featu-elight1-maximise {
+  top: 16.374130249023438px;
+  left: 61.50807571411133px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.desktop-featu-elight1-address-bar {
+  top: 11.423624992370605px;
+  left: 96.19279479980469px;
+  width: 830px;
+  height: 19px;
+  position: absolute;
+}
+.desktop-featu-elight1-screenmask {
+  top: 41.88755798339844px;
+  left: 0px;
+  width: 949px;
+  height: 489px;
+  position: absolute;
+}
+.desktop-featu-elight1-frame-items {
+  gap: 75px;
+  display: flex;
+  padding: 18px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-featu-elight1-framefeaturestyle1 {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-featu-elight1-headline {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-icroundrestaurantmenu {
+  width: 43px;
+  height: 43px;
+}
+.desktop-featu-elight1-h31 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text09 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 33px;
+}
+.desktop-featu-elight1-text-paragraphe {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text11 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.desktop-featu-elight1-framefeaturestyle11 {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-featu-elight1-headline1 {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-icroundrestaurantmenu1 {
+  width: 43px;
+  height: 43px;
+}
+.desktop-featu-elight1-h32 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text18 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 33px;
+}
+.desktop-featu-elight1-text-paragraphe1 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-featu-elight1-text20 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}

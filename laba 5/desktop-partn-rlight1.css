@@ -1,0 +1,183 @@
+.desktop-partn-rlight1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-desktop-partn-rlight1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop-partn-rlight1-content {
+  gap: 80px;
+  display: flex;
+  padding: 80px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-frametextcontent {
+  gap: 7px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-h2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-partn-rlight1-text {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: center;
+  line-height: 57px;
+}
+.desktop-partn-rlight1-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-partn-rlight1-text2 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.desktop-partn-rlight1-frame-items {
+  gap: 21px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-row {
+  gap: 37px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-partn-rlight1-framepartnerstyle1 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-frame1 {
+  width: 60px;
+  height: 60px;
+}
+.desktop-partn-rlight1-framepartnerstyle11 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-logosapiary {
+  width: 60px;
+  height: 61px;
+}
+.desktop-partn-rlight1-framepartnerstyle12 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-logosandroidicon {
+  width: 60px;
+  height: 71px;
+}
+.desktop-partn-rlight1-framepartnerstyle13 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-logosbasecamp {
+  width: 72px;
+  height: 60px;
+}
+.desktop-partn-rlight1-framepartnerstyle14 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-logosairbnb {
+  width: 60px;
+  height: 65px;
+}
+.desktop-partn-rlight1-framepartnerstyle15 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-frame11 {
+  width: 60px;
+  height: 60px;
+}
+.desktop-partn-rlight1-framepartnerstyle16 {
+  display: flex;
+  padding: 15px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-logosibm {
+  width: 150px;
+  height: 60px;
+}
+.desktop-partn-rlight1-frame-actioncontent {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-framebigbutton {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-partn-rlight1-masterbutton {
+  width: 236px;
+  display: flex;
+  padding: 16px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-primary);
+}
+.desktop-partn-rlight1-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktop-partn-rlight1-text7 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 33px;
+}

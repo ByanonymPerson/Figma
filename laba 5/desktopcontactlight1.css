@@ -1,0 +1,346 @@
+.desktopcontactlight1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktopcontactlight1-desktopcontactlight1 {
+  gap: 100px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 49px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktopcontactlight1-framebackgroundcontent {
+  width: 1440px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.desktopcontactlight1-content {
+  gap: 50px;
+  display: flex;
+  padding: 50px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktopcontactlight1-frametextcontent {
+  gap: 7px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktopcontactlight1-h2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: center;
+  line-height: 57px;
+}
+.desktopcontactlight1-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text02 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.desktopcontactlight1-social {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.desktopcontactlight1-socialmedia {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-antdesigntwitteroutlined {
+  width: 41px;
+  height: 41px;
+}
+.desktopcontactlight1-antdesignfacebookfilled {
+  width: 41px;
+  height: 41px;
+}
+.desktopcontactlight1-antdesignlinkedinfilled {
+  width: 41px;
+  height: 41px;
+}
+.desktopcontactlight1-framescreencontent {
+  gap: 29px;
+  width: 871px;
+  display: flex;
+  padding: 10px 0;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.desktopcontactlight1-framemapscreen {
+  width: 871px;
+  height: 323.1851501464844px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 48px;
+}
+.desktopcontactlight1-ima-emapscreen {
+  top: 0px;
+  left: 0px;
+  width: 871px;
+  height: 323px;
+  position: absolute;
+}
+.desktopcontactlight1-frame-items {
+  gap: 52px;
+  display: flex;
+  align-items: flex-start;
+}
+.desktopcontactlight1-framecontactstyle2 {
+  gap: 15px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-block {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktopcontactlight1-bxbxmap {
+  width: 26px;
+  height: 32px;
+}
+.desktopcontactlight1-h6 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text07 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.desktopcontactlight1-block1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktopcontactlight1-icbaselinephoneandroid {
+  width: 21px;
+  height: 34px;
+}
+.desktopcontactlight1-adress {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-h61 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text12 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.desktopcontactlight1-block2 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.desktopcontactlight1-antdesignmailoutlined {
+  width: 27px;
+  height: 22px;
+}
+.desktopcontactlight1-adress1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-h62 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text14 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.desktopcontactlight1-frame-actioncontent {
+  gap: 13px;
+  width: 868px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.desktopcontactlight1-framesignupform {
+  gap: 45px;
+  display: flex;
+  padding: 52px 50px;
+  overflow: hidden;
+  align-self: stretch;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07000000029802322) ;
+  align-items: flex-start;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktopcontactlight1-h3 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text16 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  text-align: left;
+  line-height: 33px;
+}
+.desktopcontactlight1-input {
+  gap: 47px;
+  color: rgba(24, 23, 29, 1);
+  display: flex;
+  padding: 19px 20px;
+  overflow: hidden;
+  font-size: 15px;
+  align-self: stretch;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 39px;
+  flex-direction: column;
+  background-color: rgba(245, 245, 245, 1);
+}
+.desktopcontactlight1-input1 {
+  gap: 47px;
+  color: rgba(24, 23, 29, 1);
+  display: flex;
+  padding: 19px 20px;
+  overflow: hidden;
+  font-size: 15px;
+  align-self: stretch;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 39px;
+  flex-direction: column;
+  background-color: rgba(245, 245, 245, 1);
+}
+.desktopcontactlight1-input2 {
+  gap: 47px;
+  display: flex;
+  padding: 23px 20px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: rgba(245, 245, 245, 1);
+}
+.desktopcontactlight1-frame2 {
+  width: 728px;
+  height: 147px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.desktopcontactlight1-text18 {
+  color: var(--dl-color-default-background);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktopcontactlight1-masterbutton {
+  gap: 10px;
+  width: 145px;
+  display: flex;
+  padding: 18px 38px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-primary);
+}
+.desktopcontactlight1-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.desktopcontactlight1-text20 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
